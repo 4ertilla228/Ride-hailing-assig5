@@ -1,0 +1,2 @@
+RIDE-101,RIDER-ALAN,COMPLETED,Ride completed successfully
+RIDE-CRASH-505,RIDER-CRASH,COMPENSATED_B_AND_A,Rolled back B then A due to: System restart recovery of interrupted chain
